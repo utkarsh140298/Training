@@ -1,9 +1,9 @@
 version: 2
 
 sources:
-  - name: music
+  - name: utk
     database: music
-    schema: public
+    schema: dwh_training
 
     tables:
       - name: album
@@ -17,4 +17,4 @@ sources:
       - name: playlist
       - name: playlisttrack
       - name: track
-      
+
