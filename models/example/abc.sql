@@ -1,0 +1,1 @@
+select 'virat' as vn 
