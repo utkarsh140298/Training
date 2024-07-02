@@ -17,4 +17,6 @@ sources:
       - name: playlist
       - name: playlisttrack
       - name: track
+      - name: artist
+      
 
