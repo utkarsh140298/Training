@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: utk
+    database: music
+    schema: dwh_training
+
+    tables:
+      - name: album
+      - name: customer
+      - name: employee
+      - name: genre
+      - name: invoice
+      - name: invoiceline
+      - name: mediatype
+      - name: music
+      - name: playlist
+      - name: playlisttrack
+      - name: track
+      - name: artist
+      
+
